@@ -6,7 +6,7 @@ edition = "2018"
 
 [dependencies]
 futures-preview = { version = "0.3.0-alpha.13", features=["compat"]}
-hyper = "0.12.25"
+hyper = "0.12.35"
 hyper-tls = "0.3.2"
 tokio = { version = "0.1.16", features = ["async-await-preview"] }
 
